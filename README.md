@@ -1,4 +1,4 @@
-# Find, and (really)Remove an Application (with all it's hidden junk)
+## Find, and (really)Remove an Application (with all it's hidden junk)
 
 This Python script is designed to help Windows users identify and forcibly remove potentially unwanted or "shady" software and associated files from their system. It performs a comprehensive search across key directories—including Program Files, AppData folders, Windows system paths, and temporary locations—for any files or folders containing a user-specified search term (e.g., "Adobe" for removing Adobe-related bloatware).
 
