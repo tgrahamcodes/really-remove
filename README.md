@@ -19,9 +19,9 @@ This Python script is designed to help Windows users identify and forcibly remov
 
 
 ---------------------------------------------------------------------------------------------------------------------------
-❌❌❌*CAREFUL*❌❌❌
+❌❌*BE CAREFUL*❌❌
 - *Note:* This tool is powerful and can permanently delete system files. Use with caution and only target unwanted software.
 - Always back up important data first. Not responsible for any system damage or data loss.
 
-### You have been warned!
-❌❌❌❌❌❌❌❌❌❌
+## You have been warned!
+❌❌❌❌❌❌❌❌❌
