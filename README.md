@@ -24,4 +24,4 @@ This Python script is designed to help Windows users identify and forcibly remov
 - Always back up important data first. Not responsible for any system damage or data loss.
 
 ### You have been warned!
-❌❌❌❌❌❌❌❌❌
+❌❌❌❌❌❌❌❌
